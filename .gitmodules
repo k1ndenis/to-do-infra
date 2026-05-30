@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/k1ndenis/to-do-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/k1ndenis/to-do-client.git
